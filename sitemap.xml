@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://myrtenasty.github.io/HugoQuickStart.github.io/</loc>
+    <loc>https://myrtenasty.github.io/</loc>
     <lastmod>2023-12-06T13:55:59+08:00</lastmod>
   </url><url>
-    <loc>https://myrtenasty.github.io/HugoQuickStart.github.io/posts/first-html-post/</loc>
+    <loc>https://myrtenasty.github.io/posts/first-html-post/</loc>
     <lastmod>2023-12-06T13:55:59+08:00</lastmod>
   </url><url>
-    <loc>https://myrtenasty.github.io/HugoQuickStart.github.io/posts/</loc>
+    <loc>https://myrtenasty.github.io/posts/</loc>
     <lastmod>2023-12-06T13:55:59+08:00</lastmod>
   </url><url>
-    <loc>https://myrtenasty.github.io/HugoQuickStart.github.io/posts/first-post/</loc>
+    <loc>https://myrtenasty.github.io/posts/first-post/</loc>
     <lastmod>2023-12-06T13:54:49+08:00</lastmod>
   </url><url>
-    <loc>https://myrtenasty.github.io/HugoQuickStart.github.io/categories/</loc>
+    <loc>https://myrtenasty.github.io/categories/</loc>
   </url><url>
-    <loc>https://myrtenasty.github.io/HugoQuickStart.github.io/tags/</loc>
+    <loc>https://myrtenasty.github.io/tags/</loc>
   </url>
 </urlset>
